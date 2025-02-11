@@ -1,3 +1,9 @@
+/*
+BSCIT-05-0080/2024
+ASSIGNMENT libraryfinecalculator
+MELISA MOKEIRA MAISO
+*/
+
 #include<iostream>
 
 using namespace std;
